@@ -10,8 +10,14 @@
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^4.15.3",
     "@astrojs/check": "^0.9.3",
+    "@capacitor/android": "^6.1.2",
+    "@capacitor/core": "^6.1.2",
+    "@capacitor/ios": "^6.1.2",
+    "astro": "^4.15.3",
     "typescript": "^5.5.4"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^6.1.2"
   }
 }
